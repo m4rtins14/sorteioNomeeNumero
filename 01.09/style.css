@@ -1,4 +1,4 @@
-/* Estilos gerais */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -15,7 +15,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Estilos para o cabeçalho */
+
 h2 {
     font-size: 24px;
     color: #4e008e; /* Roxo escuro */
@@ -26,7 +26,6 @@ h2 {
     margin: 10px 0;
 }
 
-/* Estilos para o formulário */
 label {
     font-size: 16px;
     color: #6a0572; /* Roxo médio */
@@ -56,7 +55,6 @@ button.sortear:hover {
     background-color: #7d569c; /* Roxo médio */
 }
 
-/* Estilos para o resultado */
 .resultado {
     margin-top: 20px;
     padding: 10px;
@@ -70,7 +68,7 @@ button.sortear:hover {
     font-weight: bold;
 }
 
-/* Estilos para a segunda seção */
+
 .entradas {
     display: flex;
     justify-content: space-between;
@@ -89,7 +87,6 @@ input[type="number"] {
     border-radius: 4px;
 }
 
-/* Estilos para o botão de sorteio */
 #sortear {
     background-color: #9d7bb0; /* Roxo claro */
     color: #fff;
